@@ -1,0 +1,21 @@
+==================================
+osu!Player
+==================================
+
+Functionality:
+-open songs from osu!'s song folder/collection database
+-play song
+-pause song
+-seek timestamp in song
+-skip song
+-random song
+-shuffle song
+-repeat single song
+-loop songs
+-make collection
+-edit collection
+
+---------------------------------
+
+Optional Features:
+-display song's background
